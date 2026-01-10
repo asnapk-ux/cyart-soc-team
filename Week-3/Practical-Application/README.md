@@ -1,4 +1,4 @@
-# Week 3 – Practical Application
+# Practical Application
 
 ## 2. Threat Intelligence Integration
 - Used AlienVault OTX to search and validate a mock malicious IP address (192.168.1.100).
